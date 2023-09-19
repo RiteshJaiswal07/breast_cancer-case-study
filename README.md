@@ -1,1 +1,2 @@
 # breast_cancer-case-study
+This case study explores the application of logistic regression in predicting breast cancer diagnosis based on a CSV dataset. The dataset contains various features related to breast cancer patients, such as age, tumor size, malignancy indicators, and more. By utilizing logistic regression, this study aims to build a predictive model that can classify breast cancer cases as malignant or benign. The findings from this analysis have the potential to enhance early detection and improve patient outcomes in breast cancer diagnosis.
